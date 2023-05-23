@@ -1,10 +1,6 @@
 # Weather Forecast and Dashboard
 
-First attempt at server-side API fetching. Interesting to see how to use keys and "walk the DOM". Assignment from Bootcamp!
-
-## Visuals
-
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+First attempt at server-side API fetching and Bootstrap for CSS. Interesting to see how to use keys and "walk the DOM". Assignment from Bootcamp!
 
 ## Installation
 
@@ -17,6 +13,8 @@ Type in a city name to see some interesting data points. Click on saved searches
 ## Roadmap
 
 Probably need to check on those fahrenheit readings..
+
+![Screenshot](/assets/images/Screenshot%202023-05-23%20at%201.49.59%20AM.png)
 
 ## Authors and acknowledgment
 

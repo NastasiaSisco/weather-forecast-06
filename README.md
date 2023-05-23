@@ -10,6 +10,8 @@ Check it out on Pages
 
 Type in a city name to see some interesting data points. Click on saved searches to refresh/revisit them.
 
+Here's the link: [GitHub Pages](https://stasiadiamond.github.io/weather-forecast-06/)
+
 ## Roadmap
 
 Probably need to check on those fahrenheit readings..
